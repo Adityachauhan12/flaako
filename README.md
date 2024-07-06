@@ -8,7 +8,7 @@ This app is a clone of https://alphaleteathletics.com.
 
 https://github.com/jp-quintana/react-shopping-cart/assets/87621233/acd29c18-a98f-49e8-a3f6-7841d5e3490f
 
-_(Version in video deployed Aug 11, 2023)_
+
 
 ## Features
 
